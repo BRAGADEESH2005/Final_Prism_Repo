@@ -1,0 +1,7 @@
+# Python virtual environments
+env/
+venv/
+ENV/
+.env
+.venv
+.vercel
